@@ -1,0 +1,100 @@
+.color-body{
+    /* background-color: #f8f8f8; */
+    height: auto;
+}
+
+.font{
+    font-family: 'Almarai', sans-serif;}
+
+
+.title{
+    color: #224f61;
+    font-family: Almarai;
+    font-size: 30px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 64px;
+}
+
+.underline{
+    height: 1px;
+    width: 200px;
+    border-radius: 10px;
+    border: 2px solid #b45b35;
+    margin: 0 auto;
+}
+
+
+
+.btn-search{
+    padding: 5px 8px;
+    border-radius: 10px;
+    color: #b45b35;
+    border: none;
+    transition: 0.3;
+    background-color: white;
+}
+.btn-search:hover{
+    color: white;
+    border-radius: 11px;
+    border: none;
+    background-color: #b45b35;
+}
+.brand-color
+{
+    color: #b45b35;
+}
+
+.img-item{
+    height: 180px;
+    width: 252px;
+    border-radius: 5px;
+}
+
+.item-description{
+    color: #8c8c8c;
+    font-family: Almarai;
+    letter-spacing: 0;
+    line-height: 20px;
+    font-size: 16px;
+}
+
+.item-title{
+    color: #555555;
+    letter-spacing: 0;
+    line-height: 20px;
+    font-family: Almarai;
+    font-size: 16px;
+    font-weight: bold;
+}  
+.item-price{
+    color: #b45b35;
+    font-family: Almarai;
+    font-size: 16px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 20px;
+}
+
+span {
+    padding: 5px 8px;
+    border: 2px solid #b45b35;
+    margin: 0 4px;
+    width: fit-content;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: 0.3s;
+    text-align: center;
+    font-family: Almarai;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 24px;
+}
+span:hover{
+    color: white;
+    border: none;
+    background-color: #b45b35;
+    font-size: 20px;
+}
+
